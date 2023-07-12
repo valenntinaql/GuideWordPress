@@ -4,6 +4,12 @@ header {
 .nav-link {
     color: aliceblue !important;
 }
-.bd-placeholder-img {
+div.card.shadoe-sm {
+    border: 1 !important;
+    margin: 0 auto !important;
     background-color: aliceblue !important;
+}
+footer {
+    background-color: rgb(59, 59, 172) !important;
+    color: aliceblue !important;
 }
